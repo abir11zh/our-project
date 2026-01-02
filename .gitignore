@@ -1,0 +1,15 @@
+# Dossiers de données (à ignorer)
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.log
+
+# Environnements
+venv/
+.env
+.venv/
